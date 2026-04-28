@@ -1,11 +1,58 @@
 # README
 
-## Basilisk
+lisk is a rethought approach to astronautical simulations framework inspired by basilisk. Lighter & smaller, easily extendable. Added observability. Modified event driven architecture to improve performance & modularity. 
+
+
+TBDs:
+- Tech stack
+- features, priorities
+- user stories, plan
+- lit review 
+- system design & ADRs 
+- wiki/docs
+
+
+## lisk simulations framework 
+
+**References**
+* [wiki](https://url/to/project/wiki)
+* [docs](/path/to/repo/docs)
+* [demo](https://url/to/demo)
+* [basilisk](/path/to/bsk/docs)
+
+
+TODO
+
+### Background 
+TODO
+
+### Features
+TODO
+
+
+## Project Structure
+TODO
+
+## Usage 
+
+## Testing 
+
+## Contributing
+
+## References: lisk
+
+
+## Background on Basilisk
+
+basilisk is a great simulation framework for satellites & astro in C/C++
+
+
+### What is Basilisk?
 
 * [Summary of Basilisk](docs/source/index.rst)
 * [Release Notes](docs/source/Support/bskReleaseNotes.rst)
 
-### Installation
+### Basilisk Installation
 
 Basilisk can be installed in two ways, either from PyPI or by building from
 source.
@@ -98,6 +145,3 @@ for more information.
 To use the standalone 3D Visualization, download the [Vizard](docs/source/Vizard/VizardDownload.rst).
 This is in development, but does provide a 3D view of many of the simulation states.
 
-### Who do I talk to?
-
-Questions and answers are fielded in the project's [Github Discussions](https://github.com/AVSLab/basilisk/discussions).
